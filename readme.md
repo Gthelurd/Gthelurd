@@ -16,6 +16,6 @@
 在我的 GitHub 上，你可以找到我最新的项目和贡献。如果你对我的工作感兴趣，欢迎与我联系或提出任何问题。
 
 - 🌐 Email:[ganaseraphim@foxmail.com](ganaseraphim@foxmail.com)
-- 🌐 个人主页:[Gthelurd.github.io](Gthelurd.github.io)
+- 🌐 个人主页:[Gthelurd.github.com](https://gthelurd.github.io/)
   
 让我们一起创造美好的代码世界吧！✨
