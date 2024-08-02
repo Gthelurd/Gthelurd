@@ -48,9 +48,10 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- #well,I still not have the awake account -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gthelurd&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gthelurd&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gthelurd&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/> -->
 
 ## Current Projects and Skills:
 <!-- https://github.com/tandpfun/skill-icons -->
